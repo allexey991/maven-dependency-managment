@@ -1,4 +1,6 @@
-<h3>Simple project to test maven dependency managment</h3>
+Simple project to test maven dependency managment
+
+https://maven.apache.org/guides/introduction/introduction-to-dependency-mechanism.html#Transitive_Dependencies
 
 1. Transitive dependency
 ├── build-2
